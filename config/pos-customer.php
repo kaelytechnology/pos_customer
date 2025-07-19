@@ -47,7 +47,7 @@ return [
     | Loyalty Configuration
     |--------------------------------------------------------------------------
     |
-    | Configuración para sistema de fidelización.
+    | Configuración para sistema de fidelización. 
     |
     */
     'loyalty' => [
