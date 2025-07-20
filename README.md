@@ -2,6 +2,7 @@
 
 Un paquete Laravel 12 para la gestión completa de clientes en sistemas POS (Point of Sale), con integración de direcciones de facturación y envío, historial de compras, gestión de crédito y sistema de fidelización con puntos.
 
+
 ## Características
 
 - ✅ **Gestión de Clientes**: Extiende el modelo `Person` del `kaelytechnology/auth-package`
